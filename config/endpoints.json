@@ -1,0 +1,5 @@
+{
+    "baseURI": "https://origodev.rockhome.hu",
+    "login": "/appservices/core/mobileAuthentication/login",
+    "appTitle": "oRiGo"
+}
